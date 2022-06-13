@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **OOP and TypeScript**
 
-- 👨‍💻 All of my projects are available at [http://lucasnonato.me/Portfolio/](https://scriblet.netlify.app)
+- 👨‍💻 All of my personal projects are available at [http://lucasnonato.me/Portfolio/](https://scriblet.netlify.app)
 
 - 💬 Ask me about **react, redux, contextAPI, Jest, RTL, css, design**
 
-- 📫 How to reach me **lucas.nonato1@hotmail.com**
+- 📫 How to reach me **lucas.nonato@thoughtworks.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
